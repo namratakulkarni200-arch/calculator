@@ -6,4 +6,4 @@ if _name_=="_main_":
     t=int(sys.argv[2])
     r=int(sys.argv[3])
     print("simple interest:",sim_interest(p,t,r))
-    print(sys.argv[0])    git 
+    print(sys.argv[0])    
